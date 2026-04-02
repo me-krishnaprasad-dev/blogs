@@ -98,10 +98,8 @@ When solving LeetCode problems, look for these three common scenarios:
 
 | Problem # | Difficulty | Title | Key Learning |
 | :--- | :--- | :--- | :--- |
-| **LC 295** | Hard | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | *Added logic for heap balancing.* |
-| **LC 480** | Hard | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | *Learned how to remove non-root elements.* |
-| **LC 502** | Hard | [IPO](https://leetcode.com/problems/ipo/) | *Using two heaps for resource management.* |
-| **LC 1834** | Medium | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | *Pending...* |
+| **LC 1942** | Medium | [The Number of the Smallest Unoccupied Chair]([https://leetcode.com/problems/find-median-from-data-stream/](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/solutions/7745668/smallest-unoccupied-chair-problem-using-l6kll)) | *Two Heaps* |
+
 
 ---
 
