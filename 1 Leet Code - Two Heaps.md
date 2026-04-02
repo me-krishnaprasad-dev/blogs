@@ -98,7 +98,7 @@ When solving LeetCode problems, look for these three common scenarios:
 
 | Problem # | Difficulty | Title | Key Learning |
 | :--- | :--- | :--- | :--- |
-| **LC 1942** | Medium | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | *Two Heaps: one for available chairs and one for departure times.* |
+| **LC 1942** | Medium | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/solutions/7745668/smallest-unoccupied-chair-problem-using-l6kll) | *Two Heaps: one for available chairs and one for departure times.* |
 
 
 ---
